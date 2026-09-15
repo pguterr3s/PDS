@@ -3,7 +3,7 @@ from scipy.io import wavfile
 import matplotlib.pyplot as plt
 
 # Ler o ficheiro
-fs, audio = wavfile.read("audio2.wav")
+fs, audio = wavfile.read("RuiVelosoPortoSentido.wav")
 
 print("Frequência de amostragem:", fs, "Hz")
 print("Número de amostras:", len(audio))
