@@ -1,13 +1,7 @@
 # PDS
 
-Este projeto foi desenvolvido no âmbito da disciplina de PDS e tem como objetivo explorar e aplicar conceitos fundamentais da programação e do desenvolvimento de software.
+Repositório do Grupo 4 da UC de Processamento Digital de Sinais do curso de LEIRT no ISEL.
 
-Através deste trabalho, pretende-se criar uma solução funcional, organizada e bem documentada, reforçando competências em análise, implementação e melhoria contínua do código.
+## Descrição
 
-## Objetivo
-
-Desenvolver uma aplicação ou projeto que demonstre a aplicação prática dos conhecimentos adquiridos, promovendo a aprendizagem de boas práticas de programação, estruturação de código e documentação.
-
-## Descrição breve
-
-O projeto centra-se na criação de uma solução relevante para o contexto da disciplina, com foco na organização, clareza e qualidade do desenvolvimento.
+Este repositório serve para guardar os trabalhos da cadeira durante o semestre.
